@@ -25,7 +25,7 @@ Angular 3 Script to check the value of many cryptos in realtime.
 <p>Now type
 <pre><code>npm install angular
 </code></pre>
-<p>Once Angular is installed, now type:
+Once Angular is installed, now type:
 <code>cd </code> on the Terminal or CMD window. Drag & drop the whole folder (unzipped), and hit enter.</p>
 </li>
 <li>
